@@ -1,5 +1,5 @@
 #load nuget:?package=Cake.Recipe&version=3.1.1
-#addin nuget:?package=Cake.FileHelpers&version=4.0.1
+#addin nuget:?package=Cake.FileHelpers&version=6.1.3
 
 var standardNotificationMessage = "Version {0} of {1} has just been released, it will be available here https://www.nuget.org/packages/{1}, once package indexing is complete.";
 
